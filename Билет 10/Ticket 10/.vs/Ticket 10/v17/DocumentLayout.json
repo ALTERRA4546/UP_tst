@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F2C759-71B6-4AC1-B776-D52C4CC3C63E}|Ticket 10\\Ticket 10.csproj|c:\\users\\king night\\desktop\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0431\u0438\u043B\u0435\u0442 10\\ticket 10\\ticket 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F2C759-71B6-4AC1-B776-D52C4CC3C63E}|Ticket 10\\Ticket 10.csproj|solutionrelative:ticket 10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5FA0E5-C62D-4C3E-A2E6-ACDE4DAC3E3D}|UnitTest\\UnitTest.csproj|C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5FA0E5-C62D-4C3E-A2E6-ACDE4DAC3E3D}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Ticket 10||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F2C759-71B6-4AC1-B776-D52C4CC3C63E}|Ticket 10\\Ticket 10.csproj|c:\\users\\king night\\desktop\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0431\u0438\u043B\u0435\u0442 10\\ticket 10\\ticket 10\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\Ticket 10\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket 10\\Program.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\Ticket 10\\Program.cs",
+              "RelativeToolTip": "Ticket 10\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:09:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket 10",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\Ticket 10\\Ticket 10.csproj",
+              "RelativeDocumentMoniker": "Ticket 10\\Ticket 10.csproj",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\Ticket 10\\Ticket 10.csproj",
+              "RelativeToolTip": "Ticket 10\\Ticket 10.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-18T20:39:04.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 10\\Ticket 10\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:10:06.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

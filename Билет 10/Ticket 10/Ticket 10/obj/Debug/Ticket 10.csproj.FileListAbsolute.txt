@@ -1,0 +1,30 @@
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\Ticket 10.exe.config
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\Ticket 10.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\Ticket 10.pdb
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Buffers.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.IO.Pipelines.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Memory.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Text.Json.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.ValueTuple.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Buffers.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.IO.Pipelines.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Memory.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Text.Json.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\bin\Debug\System.ValueTuple.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.exe.config
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.csproj.Up2Date
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10\Ticket 10\obj\Debug\Ticket 10.pdb
