@@ -1,0 +1,7 @@
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\bin\Debug\Ticket 1 C#.exe.config
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\bin\Debug\Ticket 1 C#.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\bin\Debug\Ticket 1 C#.pdb
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\obj\Debug\Ticket 1 C#.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\obj\Debug\Ticket 1 C#.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\obj\Debug\Ticket 1 C#.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Ticket 1 C#\Ticket 1 C#\obj\Debug\Ticket 1 C#.pdb

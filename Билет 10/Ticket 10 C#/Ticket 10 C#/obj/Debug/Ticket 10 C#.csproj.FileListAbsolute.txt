@@ -1,0 +1,10 @@
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\bin\Debug\Ticket 10 C#.exe.config
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\bin\Debug\Ticket 10 C#.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\bin\Debug\Ticket 10 C#.pdb
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\obj\Debug\Ticket 10 C#.csproj.AssemblyReference.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\obj\Debug\Ticket 10 C#.csproj.CoreCompileInputs.cache
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\obj\Debug\Ticket 1.5C416F61.Up2Date
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\obj\Debug\Ticket 10 C#.exe
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 10\Ticket 10 C#\Ticket 10 C#\obj\Debug\Ticket 10 C#.pdb

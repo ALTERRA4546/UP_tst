@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B0819C-512C-4E0D-8AE2-DF6D291B9FE4}|UnitTest\\UnitTest.vcxproj|C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05B0819C-512C-4E0D-8AE2-DF6D291B9FE4}|UnitTest\\UnitTest.vcxproj|solutionrelative:UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{357CB5A4-7F0F-4818-A351-4DC02AE6EC61}|Ticket 19\\Ticket 19.vcxproj|C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\Ticket 19\\Ticket 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{357CB5A4-7F0F-4818-A351-4DC02AE6EC61}|Ticket 19\\Ticket 19.vcxproj|solutionrelative:Ticket 19\\Ticket 19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest.cpp",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest\\UnitTest.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T19:20:46.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket 19.cpp",
+              "DocumentMoniker": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\Ticket 19\\Ticket 19.cpp",
+              "RelativeDocumentMoniker": "Ticket 19\\Ticket 19.cpp",
+              "ToolTip": "C:\\Users\\King Night\\Desktop\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0431\u0438\u043B\u0435\u0442\u044B\\\u0411\u0438\u043B\u0435\u0442 19\\Ticket 19\\Ticket 19\\Ticket 19.cpp",
+              "RelativeToolTip": "Ticket 19\\Ticket 19.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T19:18:56.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

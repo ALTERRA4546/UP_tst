@@ -1,0 +1,6 @@
+﻿  UnitTest.cpp
+C:\Users\King Night\Desktop\Тестирование билеты\Билет 16\Ticket 16 C++\UnitTest\UnitTest.cpp(40,36): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "/UnitTest.cpp")
+  
+     Создается библиотека C:\Users\King Night\Desktop\Тестирование билеты\Билет 16\Ticket 16 C++\x64\Debug\UnitTest.lib и объект C:\Users\King Night\Desktop\Тестирование билеты\Билет 16\Ticket 16 C++\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\King Night\Desktop\Тестирование билеты\Билет 16\Ticket 16 C++\x64\Debug\UnitTest.dll
